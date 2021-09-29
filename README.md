@@ -4,7 +4,7 @@
 ### Project Author is Clinton Otieno
 
 The project entails a webpage with favourite photos showing variety of photos.
-My webpage shows pictures of vehicles with their different locations and contacts of the owners so to make more inquaries
+My webpage shows pictures of vehicles with their different locations and contacts of the owners so to make more inquaries on any 
 
 
 The instructions include: 
