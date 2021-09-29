@@ -13,3 +13,13 @@ The instructions include:
     - Has a project Design
     - The page is published to gh-pages
     -  The page incoparates a custom-made-stylesheet
+Stylying rules to be used include:
+
+    | Rules | Number |
+    | --- | --- |
+    | Background-color | 1 |
+    | Font-family | 2 |
+    | Borders | 3 |
+    | Font style | 4 |
+    | Font weight | 5 |
+    | Box mode | 6 |
