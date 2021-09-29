@@ -23,3 +23,4 @@ Stylying rules to be used include:
     | Font style | 4 |
     | Font weight | 5 |
     | Box mode | 6 |
+    | Overflow | 7 |
