@@ -5,6 +5,7 @@
 The project is entails a webpage with favourite photos showing a variety of photos.
 My webpage shows pictures of vehicles with their different locations.
 
+
 The instructions include: 
   - Create a project that should 
     - Visually appealining 
