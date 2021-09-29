@@ -1,5 +1,6 @@
 # Favourite-Photography
 ## MPP22
+
 ### Project Author is Clinton Otieno
 
 The project entails a webpage with favourite photos showing variety of photos.
