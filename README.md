@@ -2,7 +2,7 @@
 ## MPP22
 ### Project Author is Clinton Otieno
 
-The project entails a webpage with favourite photos showing a variety of photos.
+The project entails a webpage with favourite photos showing variety of photos.
 My webpage shows pictures of vehicles with their different locations.
 
 
