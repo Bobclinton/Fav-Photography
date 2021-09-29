@@ -12,3 +12,4 @@ The instructions include:
     - Visually appealining 
     - Has a project Design
     - The page is published to gh-pages
+    -  The page incoparates
