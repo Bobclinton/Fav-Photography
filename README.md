@@ -25,3 +25,4 @@ Stylying rules to be used include:
     | Box mode | 6 |
     | Overflow | 7 |
     | Block elements | 8 |
+The live link is :https://bobclinton.github.io/Favourite-Photography/
